@@ -8,7 +8,6 @@ Repositorio para engenharia de software
 </head>
 
 <body>
-<title>Cabeçalho</title>
 <h1>Nome: Samuel Lima de Araujo<h1>
 <h1>Curso: Sistema da informaçao<h1>
 <h1>Semeste: 3 semestre<h1>
